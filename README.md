@@ -12,7 +12,7 @@ You will additionally find a side bar of information pertaining to the purpose o
 
 1. HTML: https://github.com/DeeScrump/Refactor-Matters.git
 
-2. GITHUB: 
+2. GITHUB: https://deescrump.github.io/Refactor-Matters/
 
 # Final Image of Website Page
 
