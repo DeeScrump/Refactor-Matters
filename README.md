@@ -21,7 +21,7 @@ You will additionally find a side bar of information pertaining to the purpose o
 # Find below the history of updates to working file
 
     ## Update Main Title for the Webpage
-        This webpage should be properly titled Horiseon, not "website"
+        This webpage should be properly titled Horiseon Landing Page, not "website"
 
     ## Update the semantics regarding the div for Header in html file
         The html class "header" will be replaced as standard notation. As a result multiple changes to the CSS stylesheet will be updated.  Remove the "." from in front of each "header" class in CSS

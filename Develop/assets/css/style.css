@@ -109,7 +109,7 @@ p {
     color: #ffffff;
 }
 
-.benefits div h3 {
+.benefits div h2 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -127,6 +127,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h3 {
     font-size: 20px;
 }
