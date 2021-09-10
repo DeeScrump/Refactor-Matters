@@ -10,9 +10,9 @@ You will additionally find a side bar of information pertaining to the purpose o
 
 # Link for direct access to both html website and github websites
 
-1. HTML: https://deescrump.github.io/Refactor-Is-Here/
+1. HTML: 
 
-2. GITHUB: https://github.com/DeeScrump/Refactor-Is-Here
+2. GITHUB: 
 
 # Final Image of Website Page
 
