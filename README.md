@@ -10,13 +10,13 @@ You will additionally find a side bar of information pertaining to the purpose o
 
 # Link for direct access to both html website and github websites
 
-1. HTML: 
+1. HTML: https://github.com/DeeScrump/Refactor-Matters.git
 
 2. GITHUB: 
 
 # Final Image of Website Page
 
-![Screenshot of Finish Website](C:\Users\dckor\OneDrive\Desktop\Refactor-Matters\Develop\assets\images\Screenshot.jpg)
+![Screenshot of Finish Website](./Develop/assets/images/Screenshot.jpg)
 
 # Find below the history of updates to working file
 
