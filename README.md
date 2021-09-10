@@ -16,7 +16,7 @@ You will additionally find a side bar of information pertaining to the purpose o
 
 # Final Image of Website Page
 
-![Screenshot of Finish Website](./assets/images/refactor-is-here-screen.png)
+![Screenshot of Finish Website](C:\Users\dckor\OneDrive\Desktop\Refactor-Matters\Develop\assets\images\Screenshot.jpg)
 
 # Find below the history of updates to working file
 
